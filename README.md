@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **almeidaraul/almeidaraul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Raul Almeida. I'm a Computer Science undergraduate at [UFPR](https://www.ufpr.br/portalufpr/) and use GitHub mostly for personal projects - although there'll be a university thing here and there. I'm currently doing an intership on front-end development (with ReactJS) with a growing interest for interface design and mobile development. 
+
 You'll see most of the projects I update on my free time are built using React Native (check out [guessGame](https://github.com/almeidaraul/guessgame) and [How Much Insulin](https://github.com/almeidaraul/hmi)). I have also been learning how to build things using an Arduino ([here](https://github.com/almeidaraul/arduino_basics)) and data analysis with Python for diabetes management ([here](https://github.com/almeidaraul/bsia)).
+
 You can get in touch through my email (haltsimog at gmail dot com) or see a little more about me on my webpage ([almeidaraul.github.io](https://almeidaraul.github.io)).
