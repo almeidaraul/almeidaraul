@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 **Computer Vision research student from Brazil**
 
 - 🎓 CompSci undergraduate @ [UFPR](https://www.ufpr.br/portalufpr/)
-- 🛠 Working on Face Anti-Spoofing and Pose Estimation
-- 🔍 Also interested in health data analysis
+- 🛠 Working on Face Anti-Spoofing
+- 🔍 Also interested in health data analysis and pose estimation
 - 💻 More info: [almeidaraul.github.io](https://almeidaraul.github.io)
