@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Full stack developer from Brazil**
 
 - 🔭 Computer Vision researcher
-- 🎓 CompSci undergraduate @ [UFPR](https://www.ufpr.br/portalufpr/)
+- 🎓 Grad student pursuing a master's degree @ [UFPR](https://www.ufpr.br/portalufpr/)
 - 🛠 Working on **Face Anti-Spoofing**
-- 🔍 Also interested in **data analysis** and **pose estimation**
+- 🔍 Also interested in **competitive programming** and **data analysis**
 - 💻 More info: [almeidaraul.github.io](https://almeidaraul.github.io)
