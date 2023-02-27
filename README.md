@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Raul Almeida.
-**Full stack developer from Brazil**
+**Computer Scientist from Brazil**
 
 - 🔭 Computer Vision researcher
 - 🎓 Grad student pursuing a master's degree @ [UFPR](https://www.ufpr.br/portalufpr/)
