@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 Computer Vision researcher
 - 🎓 Grad student pursuing a master's degree @ [UFPR](https://www.ufpr.br/portalufpr/)
 - 🛠 Working on **Face Anti-Spoofing**
-- 🔍 Also interested in **competitive programming** and **data analysis**
+- 🔍 Also interested in **competitive programming**, **data analysis** and **software architectures**
 - 💻 More info: [almeidaraul.github.io](https://almeidaraul.github.io)
