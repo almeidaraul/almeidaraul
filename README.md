@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Raul Almeida.
-**Computer Scientist from Brazil**
+**Computer Scientist** from Brazil, working as a **Software Engineer @ [Canonical](https://canonical.com/)**
 
-- 🔭 Computer Vision researcher
-- 🎓 Grad student pursuing a master's degree @ [UFPR](https://www.ufpr.br/portalufpr/)
-- 🛠 Working on **Face Anti-Spoofing**
+- 🎓 MSc. in Computer Vision from [UFPR](https://www.ufpr.br/portalufpr/)
+- 🛠 Working on **Cloud QA**
 - 🔍 Also interested in **competitive programming**, **data analysis** and **software architectures**
 - 💻 More info: [almeidaraul.github.io](https://almeidaraul.github.io)
